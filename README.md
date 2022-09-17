@@ -3,6 +3,7 @@
 
 1. analyze NBA player stats
     - [dataset](https://www.kaggle.com/datasets/drgilermo/nba-players-stats)
+    - which NBA player should you draft? based on zodiac signs
 
 2. individual game stats
     - [dataset](https://www.kaggle.com/datasets/nathanlauga/nba-games)
